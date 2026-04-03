@@ -1,0 +1,5 @@
+{
+  "name": "Vi-Notes",
+  "description": "A privacy-focused writing application that verifies human authorship by monitoring writing behavior without storing text content.",
+  "requestFramePermissions": []
+}
